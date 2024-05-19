@@ -4,7 +4,7 @@
 
 #### Easily open files and websites in a Windows web browser from WSL CLI.
 
-<img alt="WSL2 Terminal opening browser" src="assets/wsl-open-win-browser-demo.gif" />
+<img alt="WSL2 Terminal opening browser" src="assets/wsl-open-win-browser-demo.gif" style="border-radius: 10px" />
 
 </div>
 
