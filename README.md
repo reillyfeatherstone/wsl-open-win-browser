@@ -68,6 +68,7 @@ If you get the above error, it will probably be due to your Chrome installation 
 1. Find the location of your chrome.exe in windows
 2. In WSL2, open your .bashrc / .zshrc file
 3. Amend the path from "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe", to the correct path.
+4. Reload the .bashrc / .zshrc with `source ~/.bashrc` or `source ~/.zshrc`
 
 *(Note that the path must start with /mnt/ for WSL2 to find it)*
 
@@ -78,5 +79,6 @@ If you get the above error, it will probably be due to your Firefox installation
 1. Find the location of your firefox.exe in windows
 2. In WSL2, open your .bashrc / .zshrc file
 3. Amend the path from "/mnt/c/Program Files/Mozilla Firefox/firefox.exe", to the correct path.
+4. Reload the .bashrc / .zshrc with `source ~/.bashrc` or `source ~/.zshrc`
 
 *(Note that the path must start with /mnt/ for WSL2 to find it)*
